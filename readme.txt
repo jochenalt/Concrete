@@ -1,0 +1,1 @@
+![Lamp made of moulded conrete in a 3D-printed shape](relative/path/to/concreteLamp.png)
